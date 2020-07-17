@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sqrt">\u221a</string>
+    <string name="sinv">sin<sup><small>-1</small></sup>(</string>
+    <string name="cosv">cos<sup><small>-1</small></sup>(</string>
+    <string name="tanv">tan<sup><small>-1</small></sup>(</string>
+    <string name="about"><h3>AMIT</h3>(NAMELESS)</string>
+</resources>
